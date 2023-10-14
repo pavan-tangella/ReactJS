@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "productId": "1",
+      "title": "title",
+      "brand": "crocs",
+      "price": "3999",
+      "des": "literide easy to carry ",
+      "imgurl": "https://imgs.search.brave.com/z9lxbwKGRDmBiT8wJWonKDL8UAqcawhYOaYFyX41fBM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/ZmluZGVyLmNvbS5h/dS9uaWNoZS1idWls/Z**9999999999 GVyLzY1MDEwMWIy/NWVmMGMuanBlZw",
+      "id": 1
+    },
+    {
+      "productId": "1234",
+      "title": "a",
+      "brand": "one plus",
+      "price": "26000",
+      "des": "testing",
+      "imgurl": "https://imgs.search.brave.com/z9lxbwKGRDmBiT8wJWonKDL8UAqcawhYOaYFyX41fBM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/ZmluZGVyLmNvbS5h/dS9uaWNoZS1idWls/ZGVyLzY1MDEwMWIy/NWVmMGMuanBlZw",
+      "id": 2
+    },
+    {
+      "productId": "1234",
+      "title": "a",
+      "brand": "one plus",
+      "price": "26000",
+      "des": "testing",
+      "imgurl": "https://www.amazon.in/OnePlus-Nord-Surge-128GB-Storage/dp/B0C9QS5G2R/ref=asc_df_B0C9QS5G2R/?tag=googleshopdes-21&linkCode=df0&hvadid=666396859807&hvpos=&hvnetw=g&hvrand=10415512877318865638&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9299149&hvtargid=pla-2196550581588&gclid=Cj0KCQjwsp6pBhCfARIsAD3GZuabflKSCnjFdVxiQnvOKgzdxqKDnK24l9jSA4Xi2glGVbKmZbf9pygaAl5TEALw_wcB&th=1",
+      "id": 3
+    },
+    {
+      "productId": "22",
+      "title": "asd",
+      "brand": "one plus",
+      "price": "26000",
+      "des": "sales",
+      "imgurl": "https://www.google.com/search?q=oneplus+mobile+image&tbm=isch&ved=2ahUKEwiq2oPknfCBAxVWm2MGHeM_DY8Q2-cCegQIABAA&oq=oneplus+mobile+im&gs_lcp=CgNpbWcQARgAMgUIABCABDIFCAAQgAQyBQgAEIAEMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB46CggAEIoFELEDEENQuANY7whgpRRoAHAAeACAAZ8CiAGCBZIBBTAuMy4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=P8EnZeq-Nda2juMP4_-0-Ag&bih=739&biw=1536#imgrc=r3pjcXYuf7zEmM",
+      "id": 4
+    }
+  ]
+}
